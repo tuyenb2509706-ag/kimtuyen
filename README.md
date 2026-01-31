@@ -16,22 +16,22 @@ các hàm FILTER, QUERY và xử lý dữ liệu cơ bản.
 
 ---
 
-## 3. Hàm FILTER
+##2. Hàm FILTER
 - Lọc dữ liệu theo một hoặc nhiều điều kiện.
 - Kết hợp với các hàm thống kê.
 
 ---
 
-## 4. Hàm QUERY
+## 3. Hàm QUERY
 - Truy vấn dữ liệu theo điều kiện.
 - Sử dụng các mệnh đề cơ bản.
 
 ---
 
-## 5. Thực hành tổng hợp
+## 4. Thực hành tổng hợp
 - Thống kê dữ liệu.
 - Vẽ biểu đồ minh họa.
 
 ---
 
-## 👥 Thành viên thực hiện
+## 5. Thành viên thực hiện
