@@ -16,7 +16,7 @@ các hàm FILTER, QUERY và xử lý dữ liệu cơ bản.
 
 ---
 
-##2. Hàm FILTER
+## 2. Hàm FILTER
 - Lọc dữ liệu theo một hoặc nhiều điều kiện.
 - Kết hợp với các hàm thống kê.
 
