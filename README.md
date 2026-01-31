@@ -35,7 +35,7 @@ các hàm FILTER, QUERY và xử lý dữ liệu cơ bản.
 ---
 
 ## 5. Thành viên thực hiện
-### Huỳnh Phước Hiệp - B2509662
-### Sơn Lâm Võ Minh Quí - B2509693
-### Nguyễn Thị Kim Tuyến - B2509706
-### Lê Vũ Duy - B2509719
+- Huỳnh Phước Hiệp - B2509662
+- Sơn Lâm Võ Minh Quí - B2509693
+- Nguyễn Thị Kim Tuyến - B2509706
+- Lê Vũ Duy - B2509719
