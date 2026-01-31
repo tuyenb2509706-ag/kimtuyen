@@ -2,11 +2,11 @@
 # THỰC HÀNH GOOGLE SHEET – FILTER & QUERY
 
 ## 📌 Mục lục
-- [Giới thiệu chung](#giới-thiệu-chung)
-- [Hàm FILTER](#1-hàm-filter)
-- [Hàm QUERY](#2-hàm-query)
-- [Thực hành tổng hợp](#3-thực-hành-tổng-hợp)
-- [Thành viên thực hiện](#thành-viên-thực-hiện)
+- [Giới thiệu chung](#1-giới-thiệu-chung)
+- [Hàm FILTER](#2-hàm-filter)
+- [Hàm QUERY](#3-hàm-query)
+- [Thực hành tổng hợp](#4-thực-hành-tổng-hợp)
+- [Thành viên thực hiện](#5-thành-viên-thực-hiện)
 
 ---
 
