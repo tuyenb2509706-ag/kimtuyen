@@ -10,7 +10,7 @@
    
 ---
 
-## 1.Giới thiệu chung
+## 1. Giới thiệu chung
 Đây là bài thực hành Google Sheet nhằm giúp sinh viên làm quen với
 các hàm FILTER, QUERY và xử lý dữ liệu cơ bản.
 
